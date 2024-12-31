@@ -91,7 +91,7 @@
 <details>
   <summary><b>:zap: Language Stats</b></summary>
   <br>
-  <a href="https://your-website.com/"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=city_lights&card_width=1000&langs_count=6&layout=compact&hide=vhdl,verilog,ada,tcl,systemverilog,V,c%2B%2B,assembly,glsl,c,cmake" alt="Top Langs" /></a>
+  <a href="https://github.com/thomas-rou"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-rou&theme=city_lights&card_width=1000&langs_count=6&layout=compact&hide=vhdl,verilog,ada,tcl,systemverilog,V,assembly,glsl,html,cmake,cpp" alt="Top Langs" /></a>
 </details>
 
 <!-- ReadMe style inspired by https://github.com/o-benz with his acknowledgement -->
