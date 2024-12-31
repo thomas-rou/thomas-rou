@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:228B22,29:228B22,66:228B22,100:228B22&text=Hi,%20I'm%20Thomas Rouleau%20-nl-&textBg=false&fontSize=50&animation=fadeIn&reversal=false&desc=%20Computer Engineer | Embedded OS and Systems Engineer&descSize=20&fontColor=FFF&stroke=228B22&strokeWidth=1"/>
+<a><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:228B22,29:228B22,66:228B22,100:228B22&text=Hi,%20I'm%20Thomas Rouleau%20-nl-&textBg=false&fontSize=50&animation=fadeIn&reversal=false&desc=%20Computer Engineer | Embedded OS and Systems Engineer&descSize=20&fontColor=FFF&stroke=228B22&strokeWidth=1"/></a>
 
 <!-- <a><img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=20&duration=3000&pause=1000&color=228B22&center=true&vCenter=true&width=500&height=20&lines=[Tagline]" alt="Typing SVG" /></a> -->
 
@@ -41,7 +41,7 @@
     </li>
     <li>
       <p>
-        I worked as a <b>IT DEVELOPER</b> at <a href="https://ia.ca/">Industrielle Alliance</a> between may 2023 and august 2024. 🏦
+        I worked as a <b>IT Developer</b> at <a href="https://ia.ca/">Industrielle Alliance</a> between may 2023 and august 2024. 🏦
       </p>
     </li>
   </ul>
@@ -96,4 +96,4 @@
 
 <!-- ReadMe style inspired by https://github.com/o-benz with his acknowledgement -->
 
-<a href="https://your-website.com/"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:228B22,29:228B22,66:228B22,100:228B22&section=footer"/></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:228B22,29:228B22,66:228B22,100:228B22&section=footer"/>
