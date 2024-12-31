@@ -1,4 +1,4 @@
-<a><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:228B22,29:228B22,66:228B22,100:228B22&text=Hi,%20I'm%20Thomas Rouleau%20-nl-&textBg=false&fontSize=50&animation=fadeIn&reversal=false&desc=%20Computer Engineer | Embedded OS and Systems Engineer&descSize=20&fontColor=FFF&stroke=228B22&strokeWidth=1"/></a>
+<a><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:228B22,29:228B22,66:228B22,100:228B22&text=Hi,%20I'm%20Thomas%20Rouleau%20-nl-&textBg=false&fontSize=50&animation=fadeIn&reversal=false&desc=%20Computer%20Engineer%20|%20Embedded%20OS%20and%20Systems%20Engineer&descSize=20&fontColor=FFF&stroke=228B22&strokeWidth=1"/></a>
 
 <!-- <a><img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=20&duration=3000&pause=1000&color=228B22&center=true&vCenter=true&width=500&height=20&lines=[Tagline]" alt="Typing SVG" /></a> -->
 
