@@ -20,7 +20,7 @@ I worked as an **IT Developer** at [Industrielle Alliance](https://ia.ca/) betwe
 
 ## 🔧 Technologies, Tools & Skills
 
-**Programming Languages, librairies and framworks:**
+**Programming Languages, librairies and frameworks:**
 
 ![C](https://img.shields.io/badge/C-6aa6f8?style=flat&logo=c&color=gray)
 ![C++](https://img.shields.io/badge/C++-6aa6f8?style=flat&logo=c%2B%2B&color=gray)
