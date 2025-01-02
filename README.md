@@ -94,7 +94,7 @@ I worked as an **IT Developer** at [Industrielle Alliance](https://ia.ca/) betwe
 
 ## ⚡ Language Stats
 
-<a href="https://github.com/thomas-rou"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-rou&theme=city_lights&card_width=1000&langs_count=6&layout=compact&hide=vhdl,verilog,ada,tcl,systemverilog,V,assembly,glsl,html,cmake,cpp" alt="Top Langs" /></a>
+<a href="https://github.com/thomas-rou"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-rou&theme=city_lights&card_width=1000&langs_count=6&layout=compact&hide=ada" alt="Top Langs" /></a>
 
 <!-- ReadMe style inspired by https://github.com/o-benz with his acknowledgement -->
 
